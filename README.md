@@ -11,5 +11,5 @@ A lightweight, interactive command-line calculator built in C++ to perform basic
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sunidhimahajan09/cpp-calculator.git](https://github.com/sunidhimahajan09/cpp-calculator.git)
+   git clone https://github.com/sunidhimahajan09/cpp-calculator.git
    cd cpp-calculator
